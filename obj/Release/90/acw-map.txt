@@ -1,0 +1,12 @@
+lab12.ViewHolder, lab12;crc64135088d2e8615a75.ViewHolder
+lab12.ViewHolder;crc64135088d2e8615a75.ViewHolder
+lab12.ViewHolder;crc64135088d2e8615a75.ViewHolder
+lab12.ListViewAdapter, lab12;crc64135088d2e8615a75.ListViewAdapter
+lab12.ListViewAdapter;crc64135088d2e8615a75.ListViewAdapter
+lab12.ListViewAdapter;crc64135088d2e8615a75.ListViewAdapter
+lab12.MainActivity, lab12;crc64135088d2e8615a75.MainActivity
+lab12.MainActivity;crc64135088d2e8615a75.MainActivity
+lab12.MainActivity;crc64135088d2e8615a75.MainActivity
+lab12.WebViewClientClass, lab12;crc64135088d2e8615a75.WebViewClientClass
+lab12.WebViewClientClass;crc64135088d2e8615a75.WebViewClientClass
+lab12.WebViewClientClass;crc64135088d2e8615a75.WebViewClientClass
